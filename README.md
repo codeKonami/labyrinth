@@ -29,6 +29,13 @@ To build:
 
 This will create a `build` directory containing the files that can be uploaded to a server, or packaged into a mobile app.
 
+You can test the release version like this
+
+    cd build
+    python -m SimpleHTTPServer
+
+And you will have the game running on http://localhost:8000
+
 -------------------------------------------------------------------------------
 Copyright (C) 2016 Thomas Foricher
 melonJS is licensed under the [MIT License](http://www.opensource.org/licenses/mit-license.php)
