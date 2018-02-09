@@ -3,7 +3,7 @@ Labyrinth survival - a melonJS game
 
 <img src="https://s3-eu-west-1.amazonaws.com/mom-cloud/man.png" width="56">
 
-**Demo link:** http://labyrinth.codekonami.fr
+**Demo link:** https://codekonami.github.io/labyrinth/
 
 ## Want to contribute?
 
